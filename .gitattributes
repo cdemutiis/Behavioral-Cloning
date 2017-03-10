@@ -151,3 +151,4 @@ mac_sim.app/Contents/Resources/Data/GI/level6/ce/cef8fb677484bece407d27847afe017
 mac_sim.app/Contents/Resources/Data/GI/level6/ce/cef8fb677484bece407d27847afe0170.rsc.sse filter=lfs diff=lfs merge=lfs -text
 mac_sim.app/Contents/Resources/Data/GI/level6/ce/cef8fb677484bece407d27847afe0170.vis filter=lfs diff=lfs merge=lfs -text
 IMG filter=lfs diff=lfs merge=lfs -text
+model.h5 filter=lfs diff=lfs merge=lfs -text
