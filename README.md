@@ -13,5 +13,5 @@ Save a video of the autonomous agent --> python drive.py model.h5 run1 (run1 bei
 
 Make an mp4 video of the autonomous driving --> python video.py run1 (--fps 48 for 48 FPS)
 
-Starter Jupyter notebook and data provided by [Udacity](https://github.com/udacity/CarND-Behavioral-Cloning-P3) 
+Starter code provided by [Udacity](https://github.com/udacity/CarND-Behavioral-Cloning-P3) 
 
